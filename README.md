@@ -55,5 +55,5 @@ I’m a full-stack developer learning my ways into the coding community! I have 
 <br/>  
 
 <div align="center">
-<img src="https://64.media.tumblr.com/af4dd51baa2c5d54f442e1c6ad5961e2/tumblr_o2nk0ujs7V1sxouzno1_500.gifv" align="center" style="width: 100%" />
+<img src="https://64.media.tumblr.com/af4dd51baa2c5d54f442e1c6ad5961e2/tumblr_o2nk0ujs7V1sxouzno1_500.gifv" align="center" style="width: 80%" />
 </div>  
