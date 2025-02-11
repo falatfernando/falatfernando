@@ -36,7 +36,9 @@ On a continuous learning journey to discover the secrets of genomics. 🧬
 <br/>  
 
 ## GitHub Stats 📊
-[![GitHub Skyline](https://skyline.github.com/falatfernando/skyline.svg)](https://skyline.github.com/falatfernando)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=falatfernando&theme=dark" alt="GitHub Streak Stats" />
+</div>
 
 <br/>
 
