@@ -31,7 +31,7 @@ On a continuous learning journey to discover the secrets of genomics. 🧬
 
 ---
 
-![bash command]('bash.gif')
+![bash command](./assets/bash.gif)
 
 ```shell
 $ bash falatfernando.sh
