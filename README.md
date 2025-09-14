@@ -10,7 +10,8 @@
 </div>
 
 ### Welcome to my profile! 👻
-Master's degree student and bioinformatician <a href = 'https://www5.usp.br/'>@Universidade de São Paulo</a>, Data Science and Analytics MBA and a Bioprocess and Biotechnology Engineer with a deep passion for bioinformatics. 
+Master's degree student and bioinformatician @ <a href = 'https://www5.usp.br/'>USP</a>, Data Science and Analytics MBA and a Bioprocess and Biotechnology Engineer with a deep passion for bioinformatics. 
+
 On a continuous learning journey to discover the secrets of genomics. 🧬
 
 ---
@@ -35,3 +36,4 @@ $ bash falatfernando.sh
 ```
 
 ![Falat's github stats](https://github-readme-stats.vercel.app/api?username=falatfernando&count_private=true&show_icons=true&theme=dracula)
+
