@@ -29,8 +29,6 @@ On a continuous learning journey to discover the secrets of genomics. 🧬
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 </div>  
 
----
-
 ![bash command](./assets/bash.gif)
 
 ```shell
@@ -38,5 +36,6 @@ $ bash falatfernando.sh
 ```
 
 ![Falat's github stats](https://github-readme-stats.vercel.app/api?username=falatfernando&count_private=true&show_icons=true&theme=dracula)
+
 
 
