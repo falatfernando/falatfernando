@@ -27,7 +27,9 @@ On a continuous learning journey to discover the secrets of genomics. 🧬
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-</div>  
+</div>
+
+<br/>
 
 ![bash command](./assets/bash.gif)
 
@@ -41,3 +43,4 @@ $ bash falatfernando.sh
 <a href="https://github.com/leozz37/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falatfernando&layout=compact&hide_border=true&count_private=true&theme=dracula" />
 </a>
+
