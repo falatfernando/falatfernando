@@ -36,6 +36,4 @@ $ bash falatfernando.sh
 ```
 
 ![Falat's github stats](https://github-readme-stats.vercel.app/api?username=falatfernando&count_private=true&show_icons=true&theme=dracula)
-
-
-
+![Falat's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falatfernando&layout=compact&hide_border=true&count_private=true&theme=dracula)
