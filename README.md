@@ -36,11 +36,3 @@ On a continuous learning journey to discover the secrets of genomics. 🧬
 ```shell
 $ bash falatfernando.sh
 ```
-
-<a href="https://github.com/leozz37/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=falatfernando&count_private=true&hide_border=true&include_all_commits=true&&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/leozz37/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falatfernando&layout=compact&hide_border=true&count_private=true&theme=dracula" />
-</a>
-
