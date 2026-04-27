@@ -1,7 +1,7 @@
 # Fernando Falat
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39C5BB&center=true&vCenter=true&width=650&lines=Bioinformatics+%7C+Data+Science+%7C+Biotechnology;Building+data-driven+solutions+for+genomics+and+health" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39C5BB&center=true&vCenter=true&width=760&lines=Bioinformatics+%7C+Data+Science+%7C+Biotechnology;Building+data-driven+solutions+for+genomics+and+health" alt="Typing intro" />
 </p>
 
 <p align="center">
