@@ -54,7 +54,7 @@ I focus on extracting biological insight from complex datasets, mainly deliverin
 </p>
 
 ---
-
+<!--
 <br/>
 
 ![bash command](./assets/bash.gif)
@@ -62,3 +62,4 @@ I focus on extracting biological insight from complex datasets, mainly deliverin
 ```shell
 $ bash falatfernando.sh
 ```
+-->
