@@ -5,16 +5,17 @@
 </p>
 
 <p align="center">
+  <!--
   <a href="https://github.com/falatfernando">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  -->
   <a href="https://linkedin.com/in/fernandofalat">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ## About Me
-V
 Master's degree student and bioinformatician at [USP](https://www5.usp.br/), MBA in Data Science and Analytics and in Bioprocess and Biotechnology Engineer.
 
 I focus on extracting biological insight from complex datasets, mainly delivering **bioinformatics pipelines** and **dashboards** for genomics and health.
