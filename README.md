@@ -22,7 +22,7 @@
 
 Bioinformatician, M.Sc. student at [USP](https://www5.usp.br/), and **Nextflow Ambassador**, with an MBA in Data Science & Analytics and a degree in Bioprocess & Biotechnology Engineering.
 
-My work sits at the intersection of **Research & Development**, **bioinformatics**, and **data engineering** — building **scalable bioinformatics pipelines**, architecting **large-scale databases**, and turning complex datasets into **statistical insights** and **interactive dashboards** that support data-driven decisions.
+My work sits at the intersection of **Research & Development**, **bioinformatics**, and **data engineering**, building **scalable bioinformatics pipelines**, architecting **large-scale databases**, and turning complex datasets into **statistical insights** and **interactive dashboards** that support data-driven decisions.
 
 ## Core Stack
 
